@@ -1,6 +1,7 @@
 from jose import jwt
 from datetime import datetime, timedelta
 
+//
 SECRET_KEY = "secret"
 ALGORITHM = "HS256"
 
